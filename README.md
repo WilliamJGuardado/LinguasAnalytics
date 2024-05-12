@@ -31,6 +31,6 @@ install.packages("DT")
 install.packages("lubridate")
 ```
 To run the application locally, you can clone this repository and run the application from your R environment:
-
+```R
 library(shiny)
 runApp('path_to_app_directory')
